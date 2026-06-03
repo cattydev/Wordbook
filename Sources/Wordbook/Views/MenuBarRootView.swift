@@ -403,6 +403,6 @@ struct MenuBarRootView: View {
     }
 
     private func activateApp() {
-        NSApplication.shared.activate(ignoringOtherApps: true)
+        AppDelegate.presentRegularApp()
     }
 }
