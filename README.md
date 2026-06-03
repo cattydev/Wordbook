@@ -12,6 +12,24 @@ It is designed as a menu-bar-first utility, with a full dictionary window when y
 - Word of the Day
 - Native macOS settings and launch-at-login support
 
+## Screenshots
+
+### Menu Bar
+
+![Wordbook menu bar home](docs/screenshots/menu-bar-home.png)
+
+![Wordbook menu bar search results](docs/screenshots/menu-bar-search-results.png)
+
+![Wordbook menu bar favorites](docs/screenshots/menu-bar-favorites.png)
+
+![Wordbook menu bar recents](docs/screenshots/menu-bar-recents.png)
+
+### Windows
+
+![Wordbook settings](docs/screenshots/settings.png)
+
+![Wordbook main window](docs/screenshots/main-window.png)
+
 ## Development
 
 Run tests:
